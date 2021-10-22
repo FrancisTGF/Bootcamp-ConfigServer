@@ -2,7 +2,7 @@ server:
   port: 8081
 
 usuario:
-  nombre: pepe
+  nombre: antonio
   email: pepe@pepe.com
   telefono: '9999999'
   direccion: la laguna
