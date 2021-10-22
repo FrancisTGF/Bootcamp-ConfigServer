@@ -5,7 +5,7 @@ some:
 usuario:
   nombre: pepe
   email: pepe@pepe.com
-  telefono: lasdlas
+  telefono: '9999999'
   direccion: la laguna
 prueba:
   value: prueba1
