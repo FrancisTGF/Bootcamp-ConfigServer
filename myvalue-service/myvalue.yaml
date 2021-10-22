@@ -2,6 +2,11 @@ server:
   port: 8081
 some:
   value: valor del servidor
+usuario:
+  nombre: pepe
+  email: pepe@pepe.com
+  telefono: lasdlas
+  direccion: la laguna
 prueba:
   value: prueba1
 management:
