@@ -4,3 +4,8 @@ some:
   value: valor del servidor en test
 prueba:
   value: prueba1
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
