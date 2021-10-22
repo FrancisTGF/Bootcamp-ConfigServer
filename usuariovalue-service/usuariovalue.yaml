@@ -1,1 +1,14 @@
+server:
+  port: 8081
 
+usuario:
+  nombre: pepe
+  email: pepe@pepe.com
+  telefono: '9999999'
+  direccion: la laguna
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
